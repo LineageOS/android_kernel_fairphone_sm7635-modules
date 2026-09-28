@@ -16,6 +16,23 @@
       "message": "Fixes a boot delay I was seeing, since there\u0027s a 20 second wait in init on gesture_wakeup it means boot was delayed until this driver finished probing.",
       "revId": "37e255be18e87d9156c65e6198f447fb6e003c85",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "58096f7e_e56b2b66",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 19979
+      },
+      "writtenOn": "2026-09-28T18:29:12Z",
+      "side": 1,
+      "message": "Bump",
+      "revId": "37e255be18e87d9156c65e6198f447fb6e003c85",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
